@@ -1,4 +1,5 @@
 # RasPi-ppp
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e4fb13793a394d86aab96654e49d4603)](https://www.codacy.com/gh/Veltys/RasPi-ppp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Veltys/RasPi-ppp&amp;utm_campaign=Badge_Grade)
 [![GitHub release](https://img.shields.io/github/release/Veltys/RasPi-ppp.svg)](https://GitHub.com/Veltys/RasPi-ppp/releases/)
 [![GitHub commits](https://badgen.net/github/commits/Veltys/RasPi-ppp)](https://GitHub.com/Veltys/RasPi-ppp/commit/)
 [![GitHub latest commit](https://badgen.net/github/last-commit/Veltys/RasPi-ppp)](https://GitHub.com/Veltys/RasPi-ppp/commit/)
@@ -18,6 +19,10 @@ Its format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ### Pendiente (*TODO*)
 - [ ] Make a *TODO* list
+
+### [1.1.1] - 2023-01-08
+#### Addedd
+- Codacy badge
 
 ### [1.1.0] - 2023-01-08
 #### Addedd
