@@ -8,7 +8,7 @@
 Scripts to connect Two Raspberry Pi through UART cable
 
 
-## Descripción
+## Description
 A set of scripts that facilitate the establishment of a connection between two Raspberry Pi devices using an UART cable
 
 
@@ -18,39 +18,42 @@ All important changes in this project will be documented in this section.
 Its format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Pendiente (*TODO*)
-- [ ] Make a *TODO* list
+- [ ] Make an uninstaller
+- [ ] Make IPs easily configurable
+
 ### [1.2.3] - 2023-01-08
 #### Fixed
 - Client service optimizations in **pppd-client.service**
+- More completed **README.md**
 
 ### [1.2.2] - 2023-01-08
 #### Fixed
-- Client service type
+- Client service type in **pppd-client.service**
 
 ### [1.2.1] - 2023-01-08
 #### Fixed
-- Improved help
+- Improved help in **install.sh**
 
 ### [1.2.0] - 2023-01-08
 #### Added
-- Installer help
+- Installer help in **install.sh**
 
 ### [1.1.2] - 2023-01-08
 #### Fixed
-- Executable permissions
+- Executable permissions in **install.sh**, **pppd-client.sh** and **pppd-server.sh**
 
 ### [1.1.1] - 2023-01-08
 #### Addedd
-- Codacy badge
+- Codacy badge in **README.md**
 
 ### [1.1.0] - 2023-01-08
 #### Addedd
 - Enable the traffic forwarding in server installation in **install.sh**
-- Acknowledgments section in **README.me**
+- Acknowledgments section in **README.md**
 
 ### [1.0.0] - 2023-01-08
 #### Addedd
-- **README.me** document
+- **README.md** document
 - **pppd-client.sh** system
 - **pppd-server.sh** system
 - **pppd-client.service** *systemd* service
