@@ -21,7 +21,10 @@ Its format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 - [ ] Make an uninstaller
 - [ ] Make IPs easily configurable
 
-### [1.2.3] - 2023-01-08
+### [1.3.0] - 2023-01-08
+#### Added
+- Required packages installation in **install.sh**
+
 #### Fixed
 - Client service optimizations in **pppd-client.service**
 - More completed **README.md**
