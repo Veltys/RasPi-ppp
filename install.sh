@@ -4,7 +4,7 @@
 # Description   : Install the components
 # Author        : Veltys
 # Date          : 2023-01-08
-# Version       : 1.2.0
+# Version       : 1.2.1
 # Usage         : sudo bash install.sh client / server | sudo ./install.sh client / server
 # Notes         :
 
@@ -20,6 +20,9 @@ install.sh: client / server
 
 	Exit code:
 	Returns correct if the installation was successful.
+
+	Notes:
+	Must be run as superuser.
 EOS
 else
 	cp "pppd-${1}.sh" "/usr/local/bin/pppd-${1}.sh"
