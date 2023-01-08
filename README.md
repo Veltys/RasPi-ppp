@@ -19,6 +19,9 @@ Its format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ### Pendiente (*TODO*)
 - [ ] Make a *TODO* list
+### [1.2.3] - 2023-01-08
+#### Fixed
+- Client service optimizations in **pppd-client.service**
 
 ### [1.2.2] - 2023-01-08
 #### Fixed

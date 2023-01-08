@@ -5,10 +5,9 @@ StartLimitIntervalSec=0
 
 [Service]
 Type=oneshot
-Restart=always
-RestartSec=1
 User=root
 ExecStart=/usr/local/bin/pppd-client.sh
+RemainAfterExit=true
 
 [Install]
 WantedBy=multi-user.target
